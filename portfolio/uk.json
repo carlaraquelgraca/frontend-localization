@@ -118,7 +118,7 @@
         "every-year": "Раз на рік"
       },
       "unlock_period_types": {
-        "amount": "кіль.",
+        "amount": "к-ть",
         "percent": "%"
       },
       "cliff": {
@@ -157,7 +157,7 @@
         "price": "Ціна покупки*",
         "price_placeholder": "Ціна",
         "amount": "Кількість куплених монет / токенів*",
-        "amount_placeholder": "Кіл-ть",
+        "amount_placeholder": "К-сть",
         "round": "Раунд",
         "total_attachment": "Загальне вкладення:"
       },
@@ -296,7 +296,7 @@
       "title": "Деталі транзакції",
       "type": "Тип",
       "price": "Ціна",
-      "amount_coin": "Кіл-ть монет",
+      "amount_coin": "К-сть монет",
       "date": "Дата",
       "value": "Об'єм в $",
       "close": "Закрити"
@@ -305,7 +305,7 @@
       "title": "Деталі венчурного активу",
       "characteristics": {
         "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
-        "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-ть монет}}",
+        "amount": "{isMobile, plural, =1 {Кількість} other {К-сть монет}}",
         "investment_volume": "Обсяг інвестицій",
         "type_of_project": "Тип проекту",
         "type": "Тип",
@@ -381,7 +381,7 @@
     }
   },
   "portfolio": {
-    "last_time_update": "Востаннє оновлено:",
+    "last_time_update": "Останнє оновлення:",
     "update_started": "Оновлення розпочато:",
     "not_updated": "Не оновлено",
     "to_update": "До оновлення",
@@ -393,7 +393,7 @@
     "finance": "Фінанси",
     "price": "Ціна",
     "average_price": "Сер. ціна покупки",
-    "amount_coin": "Кіл-ть монет",
+    "amount_coin": "К-сть монет",
     "profit_loss": "Прибутковість / збиток",
     "description": "Опис портфеля",
     "portfolio_empty": "Портфель порожній...",
@@ -410,7 +410,7 @@
     "back": "Назад",
     "price": "Ціна",
     "average_price": "Сер. ціна покупки",
-    "amount_coin": "Кіл-ть монет",
+    "amount_coin": "К-сть монет",
     "profit_loss": "Прибутковість / збиток",
     "date": "Дата",
     "value": "Об'єм в $",
@@ -433,7 +433,7 @@
     "portfolio_empty": "Портфель порожній...",
     "characteristics": {
       "price": "{isMobile, plural, =1 {Ціна} other {Ціна покупки}}",
-      "amount": "{isMobile, plural, =1 {Кількість} other {Кіл-ть монет}}",
+      "amount": "{isMobile, plural, =1 {Кількість} other {К-сть монет}}",
       "investment_volume": "Об'єм інвестицій",
       "type_of_project": "Тип проекту",
       "type": "Тип",
