@@ -7,19 +7,19 @@
 		},
 		"menu": {
 			"test": "Teste",
-			"testing": "Teste"
+			"testing": "A testar"
 		},
 		"module-finished-dialog": {
 			"module": "Módulo",
 			"open_access": "O acesso ao módulo está aberto",
-			"thanks_for_review": "Obrigado, seu feedback foi levado em consideração.",
-			"awful": "Terrível",
-			"bad": "Seriamente",
+			"thanks_for_review": "Obrigado, o seu feedback foi levado em consideração.",
+			"awful": "Muito Mau",
+			"bad": "Mau",
 			"ok": "Médio",
 			"good": "Bom",
 			"excellent": "Excelente",
 			"rate_module": "Avalie o módulo concluído",
-			"leave_review?": "Gostaria de deixar uma avaliação?",
+			"leave_review?": "Que deixar uma avaliação?",
 			"next_lesson": "Próxima lição",
 			"yes": "Sim",
 			"no": "Não"
@@ -27,23 +27,23 @@
 		"module-review-dialog": {
 			"help_us": "Ajude-nos a melhorar o curso",
 			"please_leave_comment_about": "Por favor, deixe um comentário sobre",
-			"leave_review": "Deixar feedback",
-			"my_review": "Minha avaliação",
+			"leave_review": "Deixar avaliação",
+			"my_review": "A minha avaliação",
 			"module": "Módulo",
 			"course": "Curso",
-			"back": "De volta"
+			"back": "Voltar atrás"
 		}
 	},
 	"course-details": {
 		"level": "Nível:",
 		"count_of_modules": "Módulos:",
 		"count_of_lessons": "Lições:",
-		"got_badges": "Emblemas ganhos",
-		"course_progress": "progresso do curso",
-		"pass_again": "Passe novamente",
-		"continue_learning": "Continuar aprendendo",
-		"start_learning": "Comece a aprender",
-		"training_program": "Programa de treinamento",
+		"got_badges": "Crachás ganhos",
+		"course_progress": "Progresso do curso",
+		"pass_again": "Passar novamente",
+		"continue_learning": "Continuar a aprender",
+		"start_learning": "Começar a aprender",
+		"training_program": "Programa de treino",
 		"module": "Módulo"
 	},
 	"course-lesson": {
@@ -53,22 +53,22 @@
 	},
 	"course-test": {
 		"description": " Depois de passar no teste, você recebe um crachá especial que dá acesso ao próximo módulo.",
-		"ps": "P.S. Passe no teste sem um único erro e ganhe um distintivo de ouro!",
+		"ps": "P.S. Passe no teste sem um único erro e ganhe um crachá de ouro!",
 		"check_test": "Teste de verificação",
-		"try_once_more": "Tente novamente",
+		"try_once_more": "Tentar novamente",
 		"previous_lesson": "Lição anterior",
-		"onward": "Mais longe"
+		"onward": "Avançar"
 	},
 	"courses": {
-		"need_subscription": "Precisa se inscrever",
+		"need_subscription": "Precisa de inscrição",
 		"new_course_in_development": "Novos cursos já estão em desenvolvimento!",
 		"level": "Nível:",
 		"count_of_modules": "Módulos:",
 		"count_of_lessons": "Lições:",
-		"got_badges": "Emblemas ganhos",
-		"course_progress": "progresso do curso",
-		"pass_again": "Passe novamente",
-		"continue_learning": "Continuar aprendendo",
+		"got_badges": "Crachás Ganhos",
+		"course_progress": "Progresso do curso",
+		"pass_again": "Passar novamente",
+		"continue_learning": "Continuar a aprender",
 		"start_learning": "Comece a aprender",
 		"about": "Sobre o curso",
 		"difficulty": {
